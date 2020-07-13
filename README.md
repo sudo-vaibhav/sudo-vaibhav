@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-
+<div style="background:red">A simple red div for testing</div>
 
 
 - 🔭 I’m currently working on ...
