@@ -27,3 +27,11 @@
     text-align: center;
   }
 }
+
+.talks-container {
+  display: flex;
+  > div {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
