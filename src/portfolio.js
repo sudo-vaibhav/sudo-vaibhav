@@ -267,7 +267,7 @@ const achievementSection = {
     {
       title: "Winner at Hackout",
       subtitle:
-        <p>Secured third prize in the nation-wide hackathon organised by <a href="https://www.headout.com">Headout Inc</a></p>,
+        <p>Secured third prize in the nation-wide hackathon organized by <a href="https://www.headout.com">Headout Inc</a></p>,
       image: require("./assets/images/hackout.png"),
       footerLink: [
         {
