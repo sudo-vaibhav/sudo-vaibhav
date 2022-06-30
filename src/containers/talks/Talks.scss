@@ -16,6 +16,14 @@
   color: $subTitle;
 }
 
+.talks-container {
+  display: flex;
+  > div {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+
 @media (max-width: 768px) {
   .talk-header-title {
     font-size: 30px;
@@ -26,12 +34,7 @@
     line-height: normal;
     text-align: center;
   }
-}
-
-.talks-container {
-  display: flex;
-  > div {
-    margin-left: 1rem;
-    margin-right: 1rem;
+  .talks-container {
+    display: block;
   }
 }

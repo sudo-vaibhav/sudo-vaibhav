@@ -22,6 +22,7 @@
   flex-direction: column;
   background-color: $lightBackground2;
   padding: 1.5rem;
+  margin: 2rem auto;
   width: 30%;
   border-radius: 10px;
   border: 1px solid $lightBorder1;
@@ -86,5 +87,11 @@
   .project-subtitle {
     font-size: 16px;
     text-align: center;
+  }
+  .projects-container {
+    display: block;
+  }
+  .project-card {
+    width: 80%;
   }
 }

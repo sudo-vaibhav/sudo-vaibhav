@@ -23,7 +23,7 @@ const greeting = {
   username: "Vaibhav Chopra",
   title: "H, I'm Vaibhav",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building highly available applications with NodeJS / Python / Docker  and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://github.com/sudo-vaibhav/my-resume/raw/master/Vaibhav's%20Resume.pdf", // Set to empty to hide the button
@@ -36,12 +36,8 @@ const socialMediaLinks = {
   github: "https://github.com/sudo-vaibhav",
   linkedin: "https://www.linkedin.com/in/vc2001/",
   gmail: "mailvaibhavchopra@gmail.com",
-  // gitlab: "https://gitlab.com/saadpasta",
-  // facebook: "https://www.facebook.com/saad.pasta7",
   medium: "https://medium.com/@sudo-vaibhav",
   stackoverflow: "https://stackoverflow.com/users/11605919/vaibhav-chopra",
-  // Instagram, Twitter and Kaggle are also supported in the links!
-  // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
 
@@ -54,10 +50,10 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+      "⚡ Build cloud-native scalable backend applications Docker and Kubernetes"
+    ),
+    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -148,8 +144,6 @@ const educationInfo = {
       duration: "July 2019 - Present",
       desc: "Performed excellently in academics and co-curricular activities and also became Program Representative.",
       descBullets: [
-        // "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     }
   ]
@@ -158,7 +152,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
@@ -173,7 +167,7 @@ const techStack = {
       progressPercentage: "85%"
     }
   ],
-  displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
@@ -197,7 +191,7 @@ const workExperiences = {
       role: "Software Developer",
       company: "Prisha Insurance Brokers",
       companylogo: require("./assets/images/prishapolicy.png"),
-      date: "May 2017 – May 2018",
+      date: "Mar 2021 - Apr 2022",
       desc: "",
       descBullets: [
         "Developed several applications responsible for vital operation from scratch.",
@@ -219,8 +213,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Organisations",
-  subtitle: "Some student organisations where I had the fortune to both learn and teach.",
+  title: "Organizations",
+  subtitle: "Some student organizations where I had the fortune to both learn and teach.",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
@@ -261,11 +255,11 @@ const achievementSection = {
     {
       title: "Winner at DEVSOC 2021",
       subtitle:
-        "My team Sic Parvis Magna won best UI/UX and NFT track prize by Rarible",
+        <p>My team Sic Parvis Magna won best UI/UX and NFT track prize by <a href="https://rarible.com/" target="_blank">Rarible</a></p>,
       image: require("./assets/images/devsoc.png"),
       footerLink: [
         {
-          name: "Announcement",
+          name: "ANNOUNCEMENT",
           url: "https://www.instagram.com/p/COiYD03N8an/"
         },
       ]
@@ -277,22 +271,17 @@ const achievementSection = {
       image: require("./assets/images/hackout.png"),
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "PRESENTATION",
+          url: "https://youtu.be/34hC7XRbnUU?t=1050"
         }
       ]
     },
-
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      title: "Rated Knight on Leetcode",
+      subtitle: "Top 25% site-wide in timed contests (<9000 worldwide)",
+      image: require("./assets/images/leetcode.png"),
       footerLink: [
-        { name: "Certification", url: "" },
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
+        { name: "PROFILE", url: "https://leetcode.com/vaibhavchopra/" },
       ]
     }
   ],
@@ -342,9 +331,9 @@ const podcastSection = {
   title: emoji("Podcast 🎙️"),
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
-  // Please Provide with Your Podcast embeded Link
+  // Please Provide with Your Podcast embedded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+    // "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
   display: false // Set false to hide this section, defaults to true
 };
