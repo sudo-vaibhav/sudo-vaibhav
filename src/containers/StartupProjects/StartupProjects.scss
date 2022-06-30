@@ -22,6 +22,7 @@
   flex-direction: column;
   background-color: $lightBackground2;
   padding: 1.5rem;
+  width: 30%;
   border-radius: 10px;
   border: 1px solid $lightBorder1;
   justify-content: center;
@@ -57,9 +58,10 @@
 }
 
 .projects-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1rem 1rem;
+  display: flex;
+  justify-content: space-around;
+  // grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  // gap: 1rem 1rem;
 }
 
 .project-card-footer span.project-tag {
@@ -69,13 +71,13 @@
   align-items: center;
   border-radius: 4px;
   display: inline-flex;
-  font-size: 0.75rem;
   height: 2em;
   justify-content: center;
   white-space: nowrap;
   line-height: 1.5;
   margin: 0 0.5rem 0.5rem 0;
-  padding: 0 0.75em;
+  font-size: 0.8rem;
+  padding: 0.75rem;
   cursor: pointer;
   transition: 0.2s ease-in;
 }

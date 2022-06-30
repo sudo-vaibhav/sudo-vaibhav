@@ -2,10 +2,12 @@
 
 .experience-card {
   position: relative;
+  width: 30%;
   background-color: $lightBackground2;
   box-shadow: $lightBoxShadowDark 0px 10px 30px -15px;
   border-radius: 10px;
   border: 1px solid $lightBorder1;
+  margin: 2rem auto;
 }
 
 .experience-card-dark {
@@ -79,7 +81,7 @@
 
 .experience-roundedimg {
   position: absolute;
-  object-fit: cover;
+  object-fit: contain;
   left: 0;
   right: 0;
   top: 7rem;
@@ -137,6 +139,10 @@
   .experience-roundedimg {
     width: 6.5rem;
     height: 6.5rem;
+  }
+
+  .experience-card {
+    width: 80%;
   }
 }
 

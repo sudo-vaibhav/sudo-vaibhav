@@ -1,5 +1,5 @@
 /* Change this file to get your personal Portfolio */
-
+import React from "react"
 // To change portfolio colors globally go to the  _globalColor.scss file
 
 import emoji from "react-easy-emoji";
@@ -61,61 +61,77 @@ const skillsSection = {
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
+  https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "AWS",
+      fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "css3",
+      skillName: "CSS",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "Docker",
+      fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "Firebase",
+      fontAwesomeClassname: "fas fa-fire"
+    },
+    {
+      skillName: "Git",
+      fontAwesomeClassname: "fab fa-git-alt"
+    },
+    {
+      skillName: "HTML",
+      fontAwesomeClassname: "fab fa-html5"
     },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "Kubernetes",
+      fontAwesomeClassname: "fas fa-dharmachakra"
     },
     {
-      skillName: "nodejs",
+      skillName: "Linux",
+      fontAwesomeClassname: "fab fa-linux"
+    },
+    {
+      skillName: "Microsoft Azure",
+      fontAwesomeClassname: "fab fa-microsoft"
+    },
+    {
+      skillName: "NodeJS",
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
+      skillName: "NPM",
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+      skillName: "ReactJS",
+      fontAwesomeClassname: "fab fa-react"
+    },
+    {
+      skillName: "SASS",
+      fontAwesomeClassname: "fab fa-sass"
+    },
+    {
+      skillName: "Solidity",
+      fontAwesomeClassname: "fab fa-ethereum"
+    },
+    {
+      skillName: "SQL and MongoDB",
+      fontAwesomeClassname: "fas fa-database"
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -127,23 +143,15 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Vellore Institute of Technology, Vellore",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "B.Tech in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      logo: require("./assets/images/vit.png"),
+      subHeader: "B.Tech in Computer Science, CGPA: 9.39",
+      duration: "July 2019 - Present",
+      desc: "Performed excellently in academics and co-curricular activities and also became Program Representative.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        // "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
-    },
-    // {
-    //   schoolName: "Stanford University",
-    //   logo: require("./assets/images/stanfordLogo.png"),
-    //   subHeader: "Bachelor of Science in Computer Science",
-    //   duration: "September 2013 - April 2017",
-    //   desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-    //   descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    // }
+    }
   ]
 };
 
@@ -174,29 +182,28 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Blockchain Fellow",
+      company: "The Celo Foundation",
+      companylogo: require("./assets/images/celo.png"),
+      date: "June 2021 - August 2021",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Developed several decentralized applications involving the using the WEB3 SDK.",
+        "Contributed to open source and assisted in documenting core libraries using Storybook and Docusaurus.",
+        "Conducted several presentations and talks on Celo."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      role: "Software Developer",
+      company: "Prisha Insurance Brokers",
+      companylogo: require("./assets/images/prishapolicy.png"),
       date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "",
+      descBullets: [
+        "Developed several applications responsible for vital operation from scratch.",
+        "Spearheaded the use of cutting-edge technologies like GraphQL, Gatsby, MongoDB, React, and Progressive Web Apps to enhance developer and customer experience.",
+        "Optimized the digital footprint and increased unique visitors by 50%."
+      ]
     }
   ]
 };
@@ -213,28 +220,28 @@ const openSource = {
 
 const bigProjects = {
   title: "Organisations",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "Some student organisations where I had the fortune to both learn and teach.",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Student Technical Community",
+      projectDesc: "A student community aimed at enhancing skills in various domains through quality projects and events tailored for cutting edge skill development. We have a passion for innovation and excellence.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "VISIT",
+          url: "http://stcvit.in/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Indian Society for Technical Education",
+      projectDesc: "The major objective of ISTE is to assist and contribute in the production and development of top quality professional engineers and technicians needed by the industry.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "VISIT",
+          url: "https://istevit.in/"
         }
       ]
     }
@@ -252,30 +259,22 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Winner at DEVSOC 2021",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "My team Sic Parvis Magna won best UI/UX and NFT track prize by Rarible",
+      image: require("./assets/images/devsoc.png"),
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          name: "Announcement",
+          url: "https://www.instagram.com/p/COiYD03N8an/"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Winner at Hackout",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+        <p>Secured third prize in the nation-wide hackathon organised by <a href="https://www.headout.com">Headout Inc</a></p>,
+      image: require("./assets/images/hackout.png"),
       footerLink: [
         {
           name: "View Google Assistant Action",
@@ -305,23 +304,11 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "Blogs are a great way for me to express and share my experiences, I love to write and teach others whatever I learn.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
-    {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-    }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
