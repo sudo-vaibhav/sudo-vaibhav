@@ -51,7 +51,7 @@ const skillsSection = {
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
     emoji(
-      "⚡ Build cloud-native scalable backend applications Docker and Kubernetes"
+      "⚡ Build cloud-native, scalable backend applications with Docker and Kubernetes"
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
   ],
@@ -217,7 +217,7 @@ const bigProjects = {
   subtitle: "Some student organizations where I had the fortune to both learn and teach.",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/stc.png"),
       projectName: "Student Technical Community",
       projectDesc: "A student community aimed at enhancing skills in various domains through quality projects and events tailored for cutting edge skill development. We have a passion for innovation and excellence.",
       footerLink: [
@@ -255,7 +255,7 @@ const achievementSection = {
     {
       title: "Winner at DEVSOC 2021",
       subtitle:
-        <p>My team Sic Parvis Magna won best UI/UX and NFT track prize by <a href="https://rarible.com/" target="_blank">Rarible</a></p>,
+        <p>My team Sic Parvis Magna won best UI/UX and NFT track prize by <a href="https://rarible.com/" target="_blank" rel="noopener noreferrer">Rarible</a></p>,
       image: require("./assets/images/devsoc.png"),
       footerLink: [
         {
