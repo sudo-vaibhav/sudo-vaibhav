@@ -229,7 +229,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/iste.png"),
       projectName: "Indian Society for Technical Education",
       projectDesc: "The major objective of ISTE is to assist and contribute in the production and development of top quality professional engineers and technicians needed by the industry.",
       footerLink: [
@@ -267,7 +267,7 @@ const achievementSection = {
     {
       title: "Winner at Hackout",
       subtitle:
-        <p>Secured third prize in the nation-wide hackathon organized by <a href="https://www.headout.com">Headout Inc</a></p>,
+        <p>Secured third prize in the nation-wide hackathon organized by <a href="https://www.headout.com" target="_blank" rel="noopener noreferrer">Headout Inc</a></p>,
       image: require("./assets/images/hackout.png"),
       footerLink: [
         {
