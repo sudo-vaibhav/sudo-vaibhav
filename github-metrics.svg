@@ -1368,7 +1368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apihero-run/jsonhero-web</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀</div>
@@ -1421,7 +1421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PrishaPolicy/nx-monorepo</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1735,7 +1735,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 79.6k out of 100m users</span>
+                                    <span class="gh">ranked 79.6k out of 101m users</span>
                                 </div>
                                 <div class="text">Published 137 public repositories</div>
                             </div>
@@ -1932,7 +1932,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 87.5k out of 100m users</span>
+                                    <span class="gh">ranked 87.5k out of 101m users</span>
                                 </div>
                                 <div class="text">Followed by 89 users</div>
                             </div>
@@ -2246,7 +2246,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2022, 11:48:16 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 25 Oct 2022, 13:14:05 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
