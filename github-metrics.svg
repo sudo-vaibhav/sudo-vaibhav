@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Celo India Fellow, Research Intern @Samsung Prism, Rated Specialist(1405) (max) on Codeforces, 3.5⭐ on Leetcode (961)</div>
+                        <div class="introduction">Celo India Fellow, Research Intern @Samsung Prism, Rated Specialist(1405) (max) on Codeforces, 3.5⭐ on Leetcode (962)</div>
                     </section>
                 </div>
             </section>
@@ -1356,7 +1356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/waypoint-examples</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example Apps that can be deployed with Waypoint</div>
@@ -1571,8 +1571,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="127.07757234726688 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">961</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="127.20980707395499 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">962</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2488</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -1598,8 +1598,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="85.23007246376811 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">143</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="85.82608695652173 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">144</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/552</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -2234,7 +2234,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2022, 22:45:20 (timezone Asia/Calcutta) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 27 Nov 2022, 23:50:48 (timezone Asia/Calcutta) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
