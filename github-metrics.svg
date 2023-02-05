@@ -1404,7 +1404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PrishaPolicy/speed-machine</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1712,7 +1712,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 82.3k out of 107m users</span>
+                                    <span class="gh">ranked 82.4k out of 107m users</span>
                                 </div>
                                 <div class="text">Published 138 public repositories</div>
                             </div>
@@ -2132,7 +2132,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.74m out of 374m repositories</span>
+                                    <span class="gh">ranked 2.94m out of 374m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2223,7 +2223,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2023, 22:44:03 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 5 Feb 2023, 23:48:42 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
