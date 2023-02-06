@@ -1357,7 +1357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>novuhq/novu</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀</div>
@@ -2046,7 +2046,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 381k out of 374m repositories</span>
+                                    <span class="gh">ranked 363k out of 374m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 72 stars</div>
                             </div>
@@ -2133,7 +2133,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.85m out of 374m repositories</span>
+                                    <span class="gh">ranked 2.71m out of 374m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2224,7 +2224,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2023, 19:00:15 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 6 Feb 2023, 19:45:29 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
