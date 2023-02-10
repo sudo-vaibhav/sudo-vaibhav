@@ -1340,7 +1340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>novuhq/novu</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀</div>
@@ -1393,7 +1393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PrishaPolicy/nx-monorepo</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1696,7 +1696,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 82.5k out of 108m users</span>
+                                    <span class="gh">ranked 82.6k out of 108m users</span>
                                 </div>
                                 <div class="text">Published 138 public repositories</div>
                             </div>
@@ -2116,7 +2116,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.87m out of 376m repositories</span>
+                                    <span class="gh">ranked 2.86m out of 376m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2207,7 +2207,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2023, 13:51:50 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Feb 2023, 14:47:22 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
