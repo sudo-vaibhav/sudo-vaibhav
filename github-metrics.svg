@@ -1340,7 +1340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>novuhq/novu</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source notification infrastructure with fully functional embedded notification center</div>
@@ -1393,7 +1393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PrishaPolicy/nx-monorepo</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2116,7 +2116,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.98m out of 379m repositories</span>
+                                    <span class="gh">ranked 2.82m out of 379m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2207,7 +2207,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2023, 13:52:16 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Feb 2023, 14:47:29 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
