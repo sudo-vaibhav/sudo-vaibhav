@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Celo India Fellow, Research Intern @Samsung Prism, Rated Specialist(1405) (max) on Codeforces, 3.5⭐ on Leetcode (1074)</div>
+                        <div class="introduction">Celo India Fellow, Research Intern @Samsung Prism, Rated Specialist(1405) (max) on Codeforces, 3.5⭐ on Leetcode (1075)</div>
                     </section>
                 </div>
             </section>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7284 Commits
+                            7286 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.90866212164488" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="184.90866212164488" y="0" width="134.87584768160195" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="319.7845098032468" y="0" width="87.22289115983563" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="407.00740096308243" y="0" width="24.558779595014844" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="431.5661805580973" y="0" width="10.844269133779493" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.4104496918768" y="0" width="5.991544378301478" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="448.40199407017826" y="0" width="5.92507346061188" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.32706753079015" y="0" width="5.672932469209839" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.90342727756513" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="184.90342727756513" y="0" width="134.88505208676298" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="319.7884793643281" y="0" width="87.22042184211861" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.00890120644675" y="0" width="24.5580843253585" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.5669855318053" y="0" width="10.843962127837084" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.4109476596423" y="0" width="5.991374755092607" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="448.40232241473495" y="0" width="5.924905719223394" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.3272281339584" y="0" width="5.6727718660417095" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1465,7 +1465,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        954
+                                        947
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1582,8 +1582,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="132.48818897637796 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1074</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="132.61154855643045 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1075</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2667</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -1600,8 +1600,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="132.90112994350284 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">572</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="133.13347457627117 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">573</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1416</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -1734,7 +1734,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 83.9k out of 114m users</span>
+                                    <span class="gh">ranked 80.8k out of 114m users</span>
                                 </div>
                                 <div class="text">Published 140 public repositories</div>
                             </div>
@@ -2245,7 +2245,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2023, 22:43:23 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 May 2023, 23:48:56 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
