@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.83836835017115" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="184.83836835017115" y="0" width="134.91808707580566" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="319.7564554259768" y="0" width="87.27109088672724" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="407.02754631270403" y="0" width="24.54944347619425" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="431.5769897888983" y="0" width="10.840146641260523" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.41713643015885" y="0" width="5.989266668612433" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="448.40640309877125" y="0" width="5.922821020109491" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.32922411888075" y="0" width="5.67077588111926" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.90190893901845" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="184.90190893901845" y="0" width="134.80633594775156" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="319.70824488677005" y="0" width="87.30109145724614" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.0093363440162" y="0" width="24.55788266611068" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.56721901012685" y="0" width="10.843873082404343" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.4110920925312" y="0" width="5.991325556787458" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="448.4024176493187" y="0" width="5.9248570667301905" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.32727471604886" y="0" width="5.67272528395117" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -298,7 +298,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 187 commits)</small>
+                    <small class="h-details">(computed from last 188 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2122,7 +2122,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.16m out of 402m repositories</span>
+                                    <span class="gh">ranked 3.12m out of 402m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2213,7 +2213,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2023, 12:43:58 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 May 2023, 13:48:44 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
