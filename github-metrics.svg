@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Celo India Fellow, Research Intern @Samsung Prism, Rated Specialist(1405) (max) on Codeforces, 3.5⭐ on Leetcode (1142)</div>
+                        <div class="introduction">Celo India Fellow, Research Intern @Samsung Prism, Rated Specialist(1405) (max) on Codeforces, 3.5⭐ on Leetcode (1143)</div>
                     </section>
                 </div>
             </section>
@@ -1580,8 +1580,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="137.02334062727937 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1142</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="137.1433260393873 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1143</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2742</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -1598,8 +1598,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="136.9510682288077 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">604</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="137.1778084079945 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">605</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1451</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -2111,7 +2111,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.20m out of 409m repositories</span>
+                                    <span class="gh">ranked 3.11m out of 409m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2202,7 +2202,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2023, 08:46:12 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jun 2023, 09:48:26 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
