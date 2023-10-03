@@ -1306,7 +1306,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sudomakes/backroad</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Streamlit equivalent for Node.JS 💚</div>
@@ -1646,7 +1646,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 90.6k out of 121m users</span>
+                                    <span class="gh">ranked 90.6k out of 116m users</span>
                                 </div>
                                 <div class="text">Published 139 public repositories</div>
                             </div>
@@ -1767,7 +1767,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 107k out of 121m users</span>
+                                    <span class="gh">ranked 107k out of 116m users</span>
                                 </div>
                                 <div class="text">Followed by 92 users</div>
                             </div>
@@ -1944,7 +1944,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 399k out of 45.9m repositories</span>
+                                    <span class="gh">ranked 399k out of 49.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 77 stars</div>
                             </div>
@@ -2068,7 +2068,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2023, 19:45:06 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2023, 20:46:46 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
