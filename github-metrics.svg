@@ -1284,7 +1284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dapr/dapr</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.</div>
@@ -1918,7 +1918,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 406k out of 61.5m repositories</span>
+                                    <span class="gh">ranked 406k out of 58.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 76 stars</div>
                             </div>
@@ -2042,7 +2042,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2023, 16:43:09 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Oct 2023, 17:59:06 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
